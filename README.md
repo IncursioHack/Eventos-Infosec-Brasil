@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/br.png"/> Eventos de Cybersecurity e InfoSec no Brasil <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/br.png"/>
+# <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/br.png"/> Eventos de Cybersecurity e InfoSec no Brasil em 2025 <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/br.png"/>
 
 Bem-vindo ao nosso repositório de eventos de cybersecurity e infosec que irão acontecer no Brasil! Aqui você encontrará informações atualizadas sobre eventos, conferências, workshops, meetups e outros eventos importantes na área.
 
