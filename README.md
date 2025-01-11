@@ -28,22 +28,26 @@ Sua colaboração é muito bem-vinda! Se você conhece algum evento que não est
 | <a href="https://www.instagram.com/hackingnawebday/" target="_blank">Hacking na Web Day 2025 | :date: 15 de Março | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/distrito_federal.png"/> Brasília, DF | :walking: Presencial | :dollar: Pago | -
 | <a href="https://www.secopssummit.com.br/" target="_blank">SecOps Summit | :date: 19 de Março > 21 de Março | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/rio_grande_do_sul.png"/> Porto Alegre, RS | :walking: Presencial | :dollar: Pago | -
 | <a href="https://bsidesrj.com.br/" target="_blank">Security BSides Rio de Janeiro | :date: 22 de Março | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/rio_de_janeiro.png"/> Rio de Janeiro, RJ | :walking: Presencial | :free: Gratuito | -
+| <a href="https://securityleaders.com.br/eventos/" target="_blank">Security Leaders | :date: 30 de Março | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/distrito_federal.png"/> Brasília, DF |:walking: Presencial | :free: Gratuito | -
 | <a href="https://www.devopsbootcamp.net/cybersecfest2025" target="_blank">CyberSecFest 2025 | :date: SEM DATA | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/minas_gerais.png"/> Belo Horizonte, MG | :walking: Presencial | :dollar: Pago | -
 
 ## Abril
 | Evento | Data | Cidade/Estado | Online/Presencial | Pago/Gratuito | Cupom |
 |--------|------|--------|-------------------|---------------|-------|
 | <a href="https://www.instagram.com/0xehackerconference/" target="_blank">0xE Hacker Conference | :date: 5 de Abril | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/alagoas.png"/> Maceió, AL | :walking: Presencial | :dollar: Pago | -
+| <a href="https://securityleaders.com.br/eventos/" target="_blank">Security Leaders | :date: 9 de Abril | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/rio_grande_do_sul.png"/> Porto Alegre, RS |:walking: Presencial | :free: Gratuito | -
 | <a href="https://www.sympla.com.br/evento/iam-tech-day-brasil-2025-idcc-identity-cloud-cyber-summit/2566800" target="_blank">IAM Tech Day Brasil 2025 + IDCC | :date: 10 de Abril > 11 de Abril | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP | :walking: Presencial | :dollar: Pago | -
 | <a href="https://google.com.br" target="_blank">Security Bytes 2025 | :date: 10 de Abril | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/pernambuco.png"/> Recife, PE |:walking: Presencial | :dollar: Pago | -
 | <a href="https://www.instagram.com/hackingnawebday/" target="_blank">Hacking na Web Day 2025 | :date: 12 de Abril | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/pernambuco.png"/> Recife, PE | :walking: Presencial | :dollar: Pago | -
 | <a href="https://rio.websummit.com/" target="_blank">Web Summit Rio | :date: 27 de Abril > 30 de Abril | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/rio_de_janeiro.png"/> Rio de Janeiro, RJ | :walking: Presencial | :dollar: Pago | -
 | <a href="https://www.gartner.com/pt-br/conferences/la/data-analytics-brazil" target="_blank">Conferência Gartner Data & Analytics | :date: 28 de Abril > 29 de Abril | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP | :walking: Presencial | :dollar: Pago | -
+| <a href="https://securityleaders.com.br/eventos/" target="_blank">Security Leaders | :date: 29 de Abril | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/minas_gerais.png"/> Belo Horizonte, MG |:walking: Presencial | :free: Gratuito | -
 | <a href="https://www.devopsbootcamp.net/cybersecfest2025" target="_blank">CyberSecFest 2025 | :date: SEM DATA | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/santa_catarina.png"/> SEM LOCAL, SC | :walking: Presencial | :dollar: Pago | -
 
 ## Maio
 | Evento | Data | Cidade/Estado | Online/Presencial | Pago/Gratuito | Cupom |
 |--------|------|--------|-------------------|---------------|-------|
+| <a href="https://securityleaders.com.br/eventos/" target="_blank">Security Leaders | :date: 8 de Maio | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/rio_de_janeiro.png"/> Rio de Janeiro, RJ |:walking: Presencial | :free: Gratuito | -
 | <a href="https://securitybsides.com.br/" target="_blank">Security BSides São Paulo | :date: 17 de Maio > 18 de Maio | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP |:walking: Presencial | :dollar: Pago | -
 | <a href="https://www.sympla.com.br/evento/porteira-443/2724878" target="_blank">Porteira 443 | :date: 17 de Maio | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/goiás.png"/> Goiânia, GO |:walking: Presencial | :dollar: Pago | -
 | <a href="https://www.ysts.org/" target="_blank">You Sh0t The Sheriff (YSTS) | :date: 19 de Maio | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP |:walking: Presencial | :dollar: Pago | -
@@ -57,6 +61,8 @@ Sua colaboração é muito bem-vinda! Se você conhece algum evento que não est
 | <a href="https://google.com.br" target="_blank">Security Bytes 2025 | :date: 5 de Junho | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/minas_gerais.png"/> Belo Horizonte, MG |:walking: Presencial | :dollar: Pago | -
 | <a href="https://www.instagram.com/hackingnawebday/" target="_blank">Hacking na Web Day 2025 | :date: 07 de Junho | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/minas_gerais.png"/> Belo Horizonte, MG | :walking: Presencial | :dollar: Pago | -
 | <a href="https://febrabantech.febraban.org.br/eventos/febrabantech2025" target="_blank">Febraban Tech 2025 | :date: 10 de Junho > 12 de Junho | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP |:walking: Presencial |:dollar: Pago | -
+| <a href="https://securityleaders.com.br/eventos/" target="_blank">Security Leaders | :date: 11 de Junho | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/paraná.png"/> Curitiba, PR |:walking: Presencial | :free: Gratuito | -
+| <a href="https://securityleaders.com.br/eventos/" target="_blank">Security Leaders | :date: 25 de Junho | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/santa_catarina.png"/> Florianópolis, SC |:walking: Presencial | :free: Gratuito | -
 | <a href="https://www.devopsbootcamp.net/cybersecfest2025" target="_blank">CyberSecFest 2025 | :date: SEM DATA | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/goiás.png"/> Goiânia, GO | :walking: Presencial | :dollar: Pago | -
 
 ## Julho
@@ -70,10 +76,12 @@ Sua colaboração é muito bem-vinda! Se você conhece algum evento que não est
 | Evento | Data | Cidade/Estado | Online/Presencial | Pago/Gratuito | Cupom |
 |--------|------|--------|-------------------|---------------|-------|
 | <a href="https://www.gartner.com/pt-br/conferences/la/security-risk-management-brazil" target="_blank">Conferência Gartner Segurança & Gestão de Risco | :date: 5 de Agosto > 6 de Agosto | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP | :walking: Presencial | :dollar: Pago | -
+| <a href="https://securityleaders.com.br/eventos/" target="_blank">Security Leaders | :date: 13 de Agosto | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/pernambuco.png"/> Recife, PE |:walking: Presencial | :free: Gratuito | -
 | <a href="https://www.ciomeet.org/" target="_blank">CIO Meet 2025 | :date: 14 de Agosto | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP | :walking: Presencial | :dollar: Pago | -
 | <a href="https://google.com.br" target="_blank">Security Bytes 2025 | :date: 14 de Agosto | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/santa_catarina.png"/> Florianópolis, SC |:walking: Presencial | :dollar: Pago | -
 | <a href="https://www.instagram.com/hackingnawebday/" target="_blank">Hacking na Web Day 2025 | :date: 16 de Agosto | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/santa_catarina.png"/> Florianópolis, SC | :walking: Presencial | :dollar: Pago | -
 | <a href="https://bxsec.org/" target="_blank">BxSEC | :date: 23 de Agosto | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> Santos, SP | :walking: Presencial | :dollar: Pago | -
+| <a href="https://securityleaders.com.br/eventos/" target="_blank">Security Leaders | :date: 28 de Agosto | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/bahia.png"/> Salvador, BA |:walking: Presencial | :free: Gratuito | -
 | <a href="https://cybersecgo.com.br/" target="_blank">CyberSecGO 2025 | :date: SEM DATA | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/goiás.png"/> Goiânia, GO | :walking: Presencial | :dollar: Pago | -
 | <a href="https://www.rnp.br/eventos/rnpseg/" target="_blank">RNPSeg 2025 | :date: SEM DATA | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/distrito_federal.png"/> Brasília, DF | :globe_with_meridians: Online - :walking: Presencial | :dollar: Pago | -
 | <a href="https://hackbahia.github.io/" target="_blank">HackBahia 2025 | :date: SEM DATA | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/bahia.png"/> Salvador, BA | :walking: Presencial | :dollar: Pago | -
@@ -85,6 +93,7 @@ Sua colaboração é muito bem-vinda! Se você conhece algum evento que não est
 |--------|------|--------|-------------------|---------------|-------|
 | <a href="https://sbseg2025.ppgia.pucpr.br/" target="_blank">Simpósio Brasileiro de Cibersegurança (XXV-2025) | :date: 1 de Setembro > 4 de Setembro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/paraná.png"/> Foz do Iguaçu, PR | :walking: Presencial | :dollar: Pago | -
 | <a href="https://digitalprivacysummit.com.br/" target="_blank">Digital Privacy Summit 2025 | :date: 8 de Setembro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP | :walking: Presencial | :dollar: Pago | -
+| <a href="https://securityleaders.com.br/eventos/" target="_blank">Security Leaders | :date: 10 de Setembro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/ceará.png"/> Fortaleza, CE |:walking: Presencial | :free: Gratuito | -
 | <a href="https://www.instagram.com/hackingnawebday/" target="_blank">Hacking na Web Day 2025 | :date: 13 de Setembro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/rio_de_janeiro.png"/> Rio de Janeiro, RJ | :walking: Presencial | :dollar: Pago | -
 | <a href="https://www.instagram.com/xibesec/" target="_blank">XibéSec 2025 | :date: 13 de Setembro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/pará.png"/> Belém, PA | :walking: Presencial | :dollar: Pago | -
 | <a href="https://www.mindthesec.com.br/" target="_blank">Mind The Sec | :date: 16 de Setembro > 18 de Setembro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP | :walking: Presencial | :dollar: Pago | -
@@ -99,6 +108,7 @@ Sua colaboração é muito bem-vinda! Se você conhece algum evento que não est
 ## Outubro
 | Evento | Data | Cidade/Estado | Online/Presencial | Pago/Gratuito | Cupom |
 |--------|------|--------|-------------------|---------------|-------|
+| <a href="https://securityleaders.com.br/eventos/" target="_blank">Security Leaders | :date: 22 de Outubro > 23 de Outubro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP |:walking: Presencial | :free: Gratuito | -
 | <a href="https://google.com.br" target="_blank">Security Bytes 2025 | :date: 23 de Outubro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP |:walking: Presencial | :dollar: Pago | -
 | <a href="https://www.instagram.com/hackingnawebday/" target="_blank">Hacking na Web Day 2025 | :date: 25 de Outubro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP | :walking: Presencial | :dollar: Pago | -
 | <a href="https://www.sympla.com.br/evento/cyber-security-summit-2025/2715278" target="_blank">CYBER SECURITY SUMMIT 2025 | :date: 27 de Outubro > 28 de Outubro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP | :walking: Presencial | :dollar: Pago | -
@@ -123,6 +133,6 @@ Sua colaboração é muito bem-vinda! Se você conhece algum evento que não est
 | <a href="https://www.h2hc.com.br/" target="_blank">H2HC - Hackers to Hackers Conference | :date: SEM DATA | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP | :walking: Presencial | :dollar: Pago | -
 
 
-Última atualização: 09/01/2025
+Última atualização: 11/01/2025
 
 @IncursioHack
