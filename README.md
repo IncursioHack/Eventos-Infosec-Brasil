@@ -7,7 +7,8 @@ Sua colaboração é muito bem-vinda! Se você conhece algum evento que não est
 ## Janeiro
 | Evento | Data | Cidade/Estado | Online/Presencial | Pago/Gratuito | Cupom |
 |--------|------|--------|-------------------|---------------|-------|
-| <a href="https://google.com" target="_blank"> - | :date: - | - | - | - | -
+| <a href="https://www.meetup.com/gdgsjc/events/305516190/?eventOrigin=group_upcoming_events" target="_blank"> MeetUp - GDG SJC- OWASP Top 10: Proteja Suas Aplicações Web | :date: 22 de Janeiro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São José dos Campos, SP | :globe_with_meridians: Online | :free: Gratuito | -
+| <a href="https://www.meetup.com/owasp-joao-pessoa-chapter/events/305527548/?eventOrigin=group_upcoming_events" target="_blank"> MeetUp - OWASP João Pessoa - Um hacker no seu bolso | :date: 29 de Janeiro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/paraíba.png"/> João Pessoa, PB | :globe_with_meridians: Online | :free: Gratuito | -
 
 ## Fevereiro
 | Evento | Data | Cidade/Estado | Online/Presencial | Pago/Gratuito | Cupom |
@@ -115,6 +116,7 @@ Sua colaboração é muito bem-vinda! Se você conhece algum evento que não est
 | <a href="https://latam.cs4ca.com/" target="_blank">CS4CA Latam Cybersecurity Summit | :date: 28 de Outubro > 29 de Outubro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP | :walking: Presencial | :dollar: Pago | -
 | <a href="https://humanconf.com/" target="_blank">Human Risk Management Conference 2025 | :date: SEM DATA | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP | :walking: Presencial | :dollar: Pago | -
 | <a href="https://www.devopsbootcamp.net/cybersecfest2025" target="_blank">CyberSecFest 2025 | :date: SEM DATA | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/rio_grande_do_sul.png"/> Porto Alegre, RS | :walking: Presencial | :dollar: Pago | -
+| <a href="https://hack-beer.com.br/" target="_blank">Hack & Beer 2025 | :date: SEM DATA | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/paraná.png"/> Curitiba, PR | :walking: Presencial | :dollar: Pago | -
 
 ## Novembro
 | Evento | Data | Cidade/Estado | Online/Presencial | Pago/Gratuito | Cupom |
