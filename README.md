@@ -8,6 +8,7 @@ Sua colaboração é muito bem-vinda! Se você conhece algum evento que não est
 | Evento | Data | Cidade/Estado | Online/Presencial | Pago/Gratuito | Cupom |
 |--------|------|--------|-------------------|---------------|-------|
 | <a href="https://www.meetup.com/gdgsjc/events/305516190/?eventOrigin=group_upcoming_events" target="_blank"> MeetUp - GDG SJC- OWASP Top 10: Proteja Suas Aplicações Web | :date: 22 de Janeiro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São José dos Campos, SP | :globe_with_meridians: Online | :free: Gratuito | -
+| <a href="https://star.ibsec.com.br/imersao-soc-aula-1-analista-soc-como-linha-de-frente-contra-ataques-ciberneticos-2/" target="_blank"> IBSEC - Imersão Defesa Cibernética - Analista SOC | :date: 28 de Janeiro > 30 de Janeiro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/são_paulo.png"/> São Paulo, SP | :globe_with_meridians: Online | :free: Gratuito | -
 | <a href="https://www.meetup.com/owasp-joao-pessoa-chapter/events/305527548/?eventOrigin=group_upcoming_events" target="_blank"> MeetUp - OWASP João Pessoa - Um hacker no seu bolso | :date: 29 de Janeiro | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/br/paraíba.png"/> João Pessoa, PB | :globe_with_meridians: Online | :free: Gratuito | -
 
 ## Fevereiro
